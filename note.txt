@@ -1,0 +1,43 @@
+
+
+$d_time = strtotime( $row['departure_date'] );
+$d_date = date("d M", $d_time);
+
+strtotime function converts the datetime to unix timestamp that
+calculates the number of seconds from jan 1970
+
+then format it with date function to what i need to display
+
+in input datetime we need to convert it to specific time zone for value
+2019-01-01T00:00:00
+
+Cannot use while inside while in middle of while
+bu can use at end of while 
+
+ex.
+
+// doesn't Get Error but Cannot work
+while() {
+
+    // code
+
+    while() {
+
+    }
+
+    // code
+
+}
+
+// Works
+
+while() {
+
+    // code
+
+    while() {
+
+    }
+}
+
+

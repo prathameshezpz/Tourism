@@ -1,0 +1,113 @@
+17/01/2019 - 23:09 : 
+
+Started working with php stop designing any more
+Refactored... 
+created config file
+created function for flights
+created header
+created footer
+converted all html links to php
+created database tour and table flights with 3 flights
+
+18/01/2019 - 13:17 :
+
+Created Flights for all destination for 8 months 1 flight for a month
+created Get request for links
+Created custom function for custom query
+flights Should be done
+Added The function city list for flights to display city dynamically
+so when i add new flight with new arrive city it will display in list
+now flights should be done
+Corrected some links
+
+Created Hotel function
+Created Hotel_details function
+Make them Order By Sorting
+Added new hotel in database with city chennai
+
+Created Tour function
+Created tour_details function
+Make them Order By Sorting
+Added new tours in database with goa and manali
+
+created hotel booking
+created new logo :)
+created agra tour in database
+
+created the comments dynamic
+
+Created the book page for tour, hotel, flight
+
+created form on hotel book page to get check in and check out dates and guests from user
+and update the charges accordingly
+
+20/01/2019 - 01:45 :
+
+Completed Dynamic Booking Details for tours flights hotels
+
+Last thing to do is paypal
+then admin will be started
+
+
+20/01/2019 - 18:32 :
+
+Completed Paypal Booking
+Created the dates and guests inputes for hotel bookings 
+and accordingly on th number of persons and days the budget is calculated with javascript
+
+20/01/2019 - 23:42 :
+
+Login design Page is completed
+validation needed...
+
+change desc about name 
+
+
+21/01/2019 - 16:18 :
+
+Created the admin index
+created hotels function and table
+
+23/01/2019 - 18:26 :
+
+Admin Update delete add Completed
+Improved table styles and add icons for update and delete :)
+
+25/01/2019 - 00:21 :
+Created Users add update and delete 
+created popup for delete
+improved sidebar admin
+improved login redirect user based on role 
+improved admin and user login cant go to admin page if login as user even if put get request manually 
+
+
+25/01/2019 - 18:50 :
+
+created dashboard just graph not showing
+Chart done 19:40
+
+
+26/01/2019 - 17:15 :
+Created Custom checkbox for includes
+
+05/02/2019 - 21:31 :
+Logout Added for both admin and user
+register page added
+Contact improved
+dont send mail just save in databases
+Admin messages done and icon
+
+11/02/2019 - 21:55 :
+Login and Register is wayyyyyyy much improved Using Hash Password and string comparison
+
+12/02/2019 - 01:58 :
+done hashing password
+admin reviews
+adde dlogin for buy button and review button
+add subject for review and take username from session because of login compulsory
+
+13/02/2019 - 00:47 : 
+Created Arrow <--> Slider From Javascript 
+
+14/02/2019 - 22.08 : 
+setted Timezone

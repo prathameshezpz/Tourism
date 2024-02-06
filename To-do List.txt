@@ -1,0 +1,111 @@
+Front End : 
+
+
+// Create Form At Booking hotels
+// Create Booking flights layout not too diff than hotels
+
+// Exciting Tours Links Depend On Individual Click    -- done
+// HOtels Links Depend On Individual Click    -- done
+// car direct Book    -- done
+// flight direct book    -- done
+
+// Search Bar ????
+Profile
+// Reviews View More    -- done
+// Navigation Links    -- done
+
+// Create Contact Us Page
+// Create About Us Page
+// Change Footer Links : Put As :  Home,  Contct Us,  About Us     -- done
+
+// remove search bar
+
+// Correct the star icons
+
+Remove Th height to make it responsive
+
+
+Back End :
+
+Database :
+
+// flights :    -- done
+id
+name
+image
+arrival city
+departure city
+departure datetime      // Get date from this using format date php
+arrival datetime
+price
+
+
+tours :
+id
+name
+desc
+price
+nights
+days
+date            // Arrival date = date + days
+theme --key
+includes        // facilities   //or use bolean for meal hotel flight
+image1          // 3
+image2          // 3
+image3          // 3
+ratings
+
+hotels :
+id 
+name
+includes        // facilities   //or use bolean for wifi pool breakfast parking
+image1          // 3
+image2          // 3
+image3          // 3
+image4          // 4
+image5          // 5
+category
+city
+ratings
+price           // per person per day
+review
+check-in time       // This Are Default
+check-out time      // This Are Default
+// date when can be booked         // Condition will be select the ranges to see the hotels between dates
+// check-in date       // calculated by choosing how many days to stay
+// check-out date      // calculated by choosing how many days to stay
+// Guests
+
+// This will be after all the above things are done 
+// bookings
+// Comments
+
+
+Take a look at Javascript after finished
+
+
+// add one option in all select
+// add border to see in inputs
+take care of dashboard percentage
+
+// review at admin
+// review for tour
+// logout for every admin header there is only for one header added
+
+
+// adjust review booking hotel
+// filter in hotel
+remove heights
+
+
+Discounts
+
+admin sort by tables
+
+Add Slider
+
+Create DropDown Button at admin also try using select element
+
+// Adjust The Timestamp at review section
+
+look at custom checkboxes
